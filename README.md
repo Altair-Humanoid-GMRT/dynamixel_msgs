@@ -1,4 +1,4 @@
-# dynamixel_interfaces
+# dynamixel_msgs
 
 ## **1. Introduction**
 
