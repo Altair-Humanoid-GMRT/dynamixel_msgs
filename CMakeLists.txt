@@ -36,6 +36,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/GetDataFromDxl.srv"
   "srv/SetDataToDxl.srv"
   "srv/RebootDxl.srv"
+  "srv/SetTorque.srv"
   DEPENDENCIES std_msgs geometry_msgs builtin_interfaces
 )
 
